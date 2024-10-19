@@ -4,5 +4,8 @@ public class App {
         System.out.println("Hello, World2!");
 
     }
+    public static void metodo1() {
+        System.out.println("Hello, World!");
+    }
     
 }
